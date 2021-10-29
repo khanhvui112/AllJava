@@ -1,0 +1,8 @@
+
+S	java:S1067"9Replace this use of System.out or System.err by a logger.(†ĞãØşÿÿÿÿ
+N	java:S1069"9Replace this use of System.out or System.err by a logger.(«ŒŸ
+S	java:S106P"9Replace this use of System.out or System.err by a logger.(ÆãÄşÿÿÿÿ
+N	java:S106R"9Replace this use of System.out or System.err by a logger.(«ŒŸ
+Q
+java:S1128"4Remove this unused import 'fa.training.entity.Seat'.(°åşò8§Ê¿äÈ/
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(îî²F

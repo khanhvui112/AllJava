@@ -1,0 +1,18 @@
+
+1
+java:S36264"Remove this redundant jump.(ûÁİ…
+S	java:S1063"9Replace this use of System.out or System.err by a logger.(øä„Êÿÿÿÿÿ
+N	java:S106:"9Replace this use of System.out or System.err by a logger.(ƒ‹Ëë
+S	java:S106R"9Replace this use of System.out or System.err by a logger.(‚ÊŸ’üÿÿÿÿ
+S	java:S106T"9Replace this use of System.out or System.err by a logger.(Ëˆ”»ûÿÿÿÿ
+\
+java:S1128":Remove this unused import 'fa.training.entity.RoomDetail'.(¶³³üÿÿÿÿ8©şöæÈ/
+Q
+java:S1128"4Remove this unused import 'fa.training.entity.Seat'.(°åşò8£ÑÒæÈ/
+U
+java:S1128"3Remove this unused import 'javax.management.Query'.(³ì—ûşÿÿÿÿ8£ÑÒæÈ/
+^
+java:S1128"<Remove this unused import 'javax.persistence.EntityManager'.(ğàËÒıÿÿÿÿ8£ÑÒæÈ/
+`
+java:S1128">Remove this unused import 'javax.transaction.UserTransaction'.(Å§Ö‰ûÿÿÿÿ8£ÑÒæÈ/
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(îî²F

@@ -1,0 +1,23 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(É÷³þÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(®ÙÛí
+N	java:S106#"9Replace this use of System.out or System.err by a logger.(…¶æ
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(­Ð‚îÿÿÿÿÿ
+N	java:S106,"9Replace this use of System.out or System.err by a logger.(‹³Þ
+Y
+java:S18546">Remove this useless assignment to local variable "roomDetail".(áåÙªúÿÿÿÿ
+S	java:S1064"9Replace this use of System.out or System.err by a logger.(·èÇÂùÿÿÿÿ
+N	java:S1069"9Replace this use of System.out or System.err by a logger.(×ä¦ˆ
+S	java:S106:"9Replace this use of System.out or System.err by a logger.(¨÷½žûÿÿÿÿ
+S	java:S106<"9Replace this use of System.out or System.err by a logger.(øï­…ÿÿÿÿÿ
+S	java:S106C"9Replace this use of System.out or System.err by a logger.(çÜÑÉúÿÿÿÿ
+N	java:S106M"9Replace this use of System.out or System.err by a logger.(£ñ‰ü
+N	java:S106V"9Replace this use of System.out or System.err by a logger.(ôäç
+N	java:S106["9Replace this use of System.out or System.err by a logger.(ß•øš
+M	java:S106a"9Replace this use of System.out or System.err by a logger.(„’È
+N	java:S106f"9Replace this use of System.out or System.err by a logger.(ÒãÖ§
+N	java:S106l"9Replace this use of System.out or System.err by a logger.(ºþ­Ò
+S	java:S106q"9Replace this use of System.out or System.err by a logger.(®ùŽäúÿÿÿÿ
+N	java:S106w"9Replace this use of System.out or System.err by a logger.(ÑÌß³
+\
+java:S1128"ARemove this unused import 'fa.training.utils.ValidateRoomDetail'.(…å¿›ýÿÿÿÿ

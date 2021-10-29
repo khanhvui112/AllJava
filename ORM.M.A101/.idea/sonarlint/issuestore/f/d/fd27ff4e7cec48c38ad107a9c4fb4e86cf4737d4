@@ -1,0 +1,40 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.( —û÷
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¸·ìøÿÿÿÿ
+=
+java:S1125&"'Remove the unnecessary boolean literal.(½€Ş
+M	java:S106'"9Replace this use of System.out or System.err by a logger.(ÿŒØC
+S	java:S106)"9Replace this use of System.out or System.err by a logger.(Ÿƒüşÿÿÿÿ
+S	java:S106/"9Replace this use of System.out or System.err by a logger.(»ï×âÿÿÿÿÿ
+S	java:S1061"9Replace this use of System.out or System.err by a logger.(‚ëô¥üÿÿÿÿ
+S	java:S106:"9Replace this use of System.out or System.err by a logger.(ÈÔÖãûÿÿÿÿ
+S	java:S106@"9Replace this use of System.out or System.err by a logger.(èËˆæøÿÿÿÿ
+N	java:S106A"9Replace this use of System.out or System.err by a logger.(¦ÕÀ
+M	java:S106C"9Replace this use of System.out or System.err by a logger.(ƒÁÑ
+N	java:S106K"9Replace this use of System.out or System.err by a logger.(Éâô§
+h
+java:S3776R"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(Ë¡ó¦
+S	java:S106Y"9Replace this use of System.out or System.err by a logger.(Ü¨—ñÿÿÿÿÿ
+S	java:S106c"9Replace this use of System.out or System.err by a logger.(´ŸÌ³øÿÿÿÿ
+S	java:S106m"9Replace this use of System.out or System.err by a logger.(Æ§Ä¾şÿÿÿÿ
+N	java:S106t"9Replace this use of System.out or System.err by a logger.(Í¯ª‰
+=
+java:S1125z"'Remove the unnecessary boolean literal.(É³Ìî
+N	java:S106{"9Replace this use of System.out or System.err by a logger.(ÌâŠ”
+T	java:S106‚"9Replace this use of System.out or System.err by a logger.(Ú¾‡•ıÿÿÿÿ
+>
+java:S1125ˆ"'Remove the unnecessary boolean literal.(É³Ìî
+T	java:S106‰"9Replace this use of System.out or System.err by a logger.(ƒÔ°–ıÿÿÿÿ
+Q
+java:S1128"4Remove this unused import 'fa.training.entity.Room'.(˜«Ş¬8³ú”âÈ/
+\
+java:S1128":Remove this unused import 'fa.training.entity.RoomDetail'.(¶³³üÿÿÿÿ8´ú”âÈ/
+_
+java:S1128"=Remove this unused import 'fa.training.utils.HibernateUtils'.(ëÓ–“ûÿÿÿÿ8´ú”âÈ/
+T
+java:S1128	"2Remove this unused import 'org.hibernate.Session'.(È¹›§ùÿÿÿÿ8µú”âÈ/
+S
+java:S1128
+"6Remove this unused import 'org.hibernate.Transaction'.(ìÌè³8¶ú”âÈ/
+R
+java:S1128"0Remove this unused import 'java.time.LocalDate'.(›‘¬èıÿÿÿÿ8¸ú”âÈ/

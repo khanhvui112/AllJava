@@ -1,0 +1,46 @@
+
+n	java:S116"RRename this field "room_Id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÔãÖÜ8›œ´òÉ/
+k	java:S116"VRename this field "SEAT_COLUMN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½Ûã–
+m	java:S116"SRename this field "SEAT_ROW" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™ÀÊûùÿÿÿÿ
+k	java:S116""VRename this field "SEAT_STATUS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ã›òì
+n	java:S116*"TRename this field "SEAT_TYPE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë²Æüÿÿÿÿ
+h	java:S100T"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÖÄìÕûÿÿÿÿ
+h	java:S100X"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê“Öúÿÿÿÿ
+c	java:S100\"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“ôÄ¥
+h	java:S100`"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ôì¤ýýÿÿÿÿ
+h	java:S100d"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘Ö÷ÿÿÿÿÿ
+c	java:S100h"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ã»‚¼
+c	java:S100l"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³æð‘
+c	java:S100p"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–„à¸
+c	java:S100|"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼­•Á
+i	java:S100€"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ž—‡Ðùÿÿÿÿ
+J
+java:S16560"/Remove or correct this useless self-assignment.(€ýÍ˜øÿÿÿÿ
+J
+java:S1656>"/Remove or correct this useless self-assignment.(ê¿›µýÿÿÿÿ
+^
+java:S1192†"GDefine a constant instead of duplicating this literal "\t\t\t" 6 times.(ö€Ñã
+f	java:S117/"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†Æ‘Ê
+f	java:S117/"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†Æ‘Ê
+f	java:S117/"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†Æ‘Ê
+f	java:S117/"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†Æ‘Ê
+f	java:S117/"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†Æ‘Ê
+f	java:S1178"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­þÍ
+f	java:S1178"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­þÍ
+f	java:S1178"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­þÍ
+f	java:S1178"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­þÍ
+f	java:S1178"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­þÍ
+f	java:S117B"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñ°ï‡
+f	java:S117B"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñ°ï‡
+f	java:S117B"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñ°ï‡
+f	java:S117B"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñ°ï‡
+f	java:S117B"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñ°ï‡
+k	java:S117X"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê“Öúÿÿÿÿ
+k	java:S117`"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ôì¤ýýÿÿÿÿ
+f	java:S117h"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ã»‚¼
+f	java:S117p"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–„à¸
+l	java:S117€"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ž—‡Ðùÿÿÿÿ
+}
+java:S4165>"bRemove this useless assignment; "room" already holds the assigned value along all execution paths.(ê¿›µýÿÿÿÿ
+
+java:S41650"dRemove this useless assignment; "seatId" already holds the assigned value along all execution paths.(€ýÍ˜øÿÿÿÿ
