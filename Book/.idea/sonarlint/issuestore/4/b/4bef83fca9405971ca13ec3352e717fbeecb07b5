@@ -1,0 +1,6 @@
+
+P
+java:S1118":Add a private constructor to hide the implicit public one.(¿Àò€
+
+java:S1130"yRemove the declaration of thrown exception 'java.lang.ClassNotFoundException', as it cannot be thrown from method's body.(Ö«èÙ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(â®µ²şÿÿÿÿ

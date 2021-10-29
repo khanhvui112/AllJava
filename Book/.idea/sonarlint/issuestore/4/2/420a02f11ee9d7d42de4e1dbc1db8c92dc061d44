@@ -1,0 +1,16 @@
+
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(¢½ƒÀúÿÿÿÿ
+N	java:S1067"9Replace this use of System.out or System.err by a logger.(ÈÌíÏ
+N	java:S106I"9Replace this use of System.out or System.err by a logger.(ˆû–š
+S	java:S106P"9Replace this use of System.out or System.err by a logger.(¢Û™ûÿÿÿÿÿ
+S	java:S106\"9Replace this use of System.out or System.err by a logger.(¢Û™ûÿÿÿÿÿ
+^
+java:S2259B"HA "NullPointerException" could be thrown; "connection" is nullable here.(ôêÂœ
+e
+java:S2095."OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÿÑü÷
+e
+java:S2095W"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÿÑü÷
+e
+java:S2095L"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÿÑü÷
+b
+java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµþÿÿÿÿ
