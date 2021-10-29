@@ -1,0 +1,11 @@
+
+U
+java:S1854'"?Remove this useless assignment to local variable "getEmployee".(şë§
+S
+java:S1481"1Remove this unused "employeeList" local variable.(üšˆüÿÿÿÿ8ìÅé£È/
+=
+java:S1125"'Remove the unnecessary boolean literal.(“²å’
+S	java:S106"9Replace this use of System.out or System.err by a logger.(òÆ‘•ıÿÿÿÿ
+N	java:S106!"9Replace this use of System.out or System.err by a logger.(Á˜ûé
+N	java:S106)"9Replace this use of System.out or System.err by a logger.(–±âÒ
+S	java:S106*"9Replace this use of System.out or System.err by a logger.(£ıíÌşÿÿÿÿ
